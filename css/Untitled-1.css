@@ -1,0 +1,40 @@
+.bg-dark {
+    background-color: grey;
+}
+
+.img-navbar {
+    width: 150px;
+}
+
+#features {
+    padding: 10px 15px;
+    background-color: honeydew;
+    position: relative;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 4.5%;
+}
+
+.icon {
+    color: tomato;
+}
+
+#carousel {
+    padding: 5% 15%;
+}
+
+.carousel {
+    padding: 5% 15%;
+    background-color: grey;
+}
+
+.carousel-img {
+    width: 10%;
+    border-radius:
+}
+
+border-radius: 50%;
+
+}
